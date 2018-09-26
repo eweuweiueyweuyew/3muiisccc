@@ -1,4 +1,4 @@
-token=NDkzMTkwNzQ1Njg0MDQ5OTMw.DohYBw.oJ3IIiisnIVq8ezpIUIGQwk-Tg8
+token=NDk0MzA1MzY5MjAwMjYzMjA4.Dox4Fg.iMmPoZRWH5QZ59T9gWDI5O9rI2s
 owner=474175378118803466 
-prefix=1
-game=Watching Truth music
+prefix=3
+game=Watching Just Player
